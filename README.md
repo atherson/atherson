@@ -1,11 +1,11 @@
 ## 👋 Hey, I’m Atherson
 
-🚀 Aspiring **Systems & Automation Developer**  
-⚡ Learning **C & C++** to dive into low-level programming, memory management, and how computers really work.  
+🚀 Aspiring **Software Developer**  
+⚡ Learning **C++** to dive into low-level programming, memory management, and how computers really work.  
 🤖 Using **Python** to automate workflows, prototype tools, and make life easier for developers.  
+⚡ Using **Go** for backend.
 
-### 🔧 What I’m Building
-- 🖥️ Low-level experiments in C/C++ (performance, systems internals, and beyond)  
+
 - ⚙️ Automation scripts in Python to eliminate repetitive tasks  
 - 📚 Clear, well-documented projects as I learn and grow  
 
