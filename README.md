@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a **Software Engineer** and **Cybersecurity Analyst** with a focus on high-performance backend systems and offensive security. 🔐
+I am a **Software Engineer** and **Cybersecurity Analyst** with a focus on high-performance systems and security. 
 
 🛠️ I started my journey in systems development by building custom **C++** applications and exploring the depths of **Linux**. I enjoy automating complex workflows and optimizing environments for maximum efficiency.
 
